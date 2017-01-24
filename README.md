@@ -1,4 +1,4 @@
 # Update with both 2
 
-;\) with logs
+;\) with logs. Logs for getOwner
 
